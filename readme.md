@@ -28,5 +28,5 @@ Esses são apenas alguns dos projetos em que estou trabalhando atualmente. Estou
 ### Redes Sociais
 
 - GitHub: [github.com/gabrielcavalieri](https://github.com/gabrielcavalieri)
-- Instagram: [instagram.com/gabriel_cavalieri](https://www.instagram.com/gabriel.cavalierii/)
-- Facebook: [facebook.com/gabrielcavalieri](https://www.facebook.com/gabriel.cavalierii)
+- Instagram: [instagram.com/gabriel.cavalierii](https://www.instagram.com/gabriel.cavalierii/)
+- Facebook: [facebook.com/gabrielcavalierii](https://www.facebook.com/gabriel.cavalierii)
