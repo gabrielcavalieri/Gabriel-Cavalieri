@@ -4,6 +4,9 @@
 
 ### Sobre Mim
 
+[![Gabriel Cavalieri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcavalieri)](https://github.com/gabrielcavalieri/github-readme-stats)
+
+
 Olá! Eu sou o Gabriel Cavalieri, um estudante do 2º ano do ensino médio com 17 anos. Tenho autismo e transtorno bipolar, mas isso não me impede de ser determinado e apaixonado por aprender. Estou sempre em busca de conhecimento e adoro compartilhar minhas experiências para promover a inclusão e ajudar os outros a entenderem melhor essas condições.
 
 ### Projetos
@@ -21,7 +24,6 @@ Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 Esses são apenas alguns dos projetos em que estou trabalhando atualmente. Estou sempre buscando aprender e crescer no mundo da tecnologia Android e e-books, e ficarei feliz em compartilhar mais sobre meus projetos e descobertas com a comunidade. Fique atento às atualizações e novidades neste repositório! 🚀
 
 ### Contato
-
 - E-mail: gabriel.cavalieri@aluno.edu.es.gov.br
 - E-mail Secundário: gabrielcg260@gmail.com
 
@@ -29,4 +31,4 @@ Esses são apenas alguns dos projetos em que estou trabalhando atualmente. Estou
 
 - GitHub: [github.com/gabrielcavalieri](https://github.com/gabrielcavalieri)
 - Instagram: [instagram.com/gabriel.cavalierii](https://www.instagram.com/gabriel.cavalierii/)
-- Facebook: [facebook.com/gabrielcavalierii](https://www.facebook.com/gabriel.cavalierii)
+- Facebook: [facebook.com/gabriel.cavalierii](https://www.facebook.com/gabriel.cavalierii)
