@@ -1,6 +1,6 @@
 ## Gabriel Cavalieri - Meu Perfil
 
-![Gabriel Cavalieri]((https://user-images.githubusercontent.com/140845825/256919802-d6483f0f-3814-42f7-b44a-c3f519537183.png)
+![Gabriel Cavalieri](https://user-images.githubusercontent.com/140845825/256919802-d6483f0f-3814-42f7-b44a-c3f519537183.png)
 
 ### Sobre Mim
 
