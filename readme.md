@@ -4,9 +4,6 @@
 
 ### Sobre Mim
 
-[![Gabriel Cavalieri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcavalieri)](https://github.com/gabrielcavalieri/github-readme-stats)
-
-
 Olá! Eu sou o Gabriel Cavalieri, um estudante do 2º ano do ensino médio com 17 anos. Tenho autismo e transtorno bipolar, mas isso não me impede de ser determinado e apaixonado por aprender. Estou sempre em busca de conhecimento e adoro compartilhar minhas experiências para promover a inclusão e ajudar os outros a entenderem melhor essas condições.
 
 ### Projetos
